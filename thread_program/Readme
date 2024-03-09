@@ -1,0 +1,2 @@
+1. collected pthread_create in thread_id.
+2. use local variable for thread return value in thread_exit
